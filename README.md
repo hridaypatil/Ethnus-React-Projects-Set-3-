@@ -1,2 +1,2 @@
-# Ethnus-React-Projects-Set-3-
-Task-1
+![Task1](task1.png)
+https://react-wordcounter.vercel.app/
